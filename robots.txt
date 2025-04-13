@@ -1,0 +1,5 @@
+# robots.txt 
+Crawl-delay: 120
+Disallow:https://template.explorer.ac.cn/sitemap.txt
+User-agent: *
+Disallow:
