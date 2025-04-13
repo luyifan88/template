@@ -4,7 +4,8 @@
 本存储库收录了作者觉得比较优雅的错误状态模板。
 
 ### 示例站
-你可以访问[链接](https://template.explorer.ac.cn)进行参考
+你可以访问[链接](https://template.explorer.ac.cn)进行参考  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fbd00bde-7b90-45f2-a6a7-86c7b9d60d4c/deploy-status)](https://app.netlify.com/sites/illustrious-chebakia-940a97/deploys)
 
 ### 使用
 各位可根据自身需要采用，感谢支持。
